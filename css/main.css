@@ -7,7 +7,6 @@ body {
 }
 
 .paved {
-  line-height: 3em;
   text-align: center;
   position: absolute;
   left: 0;
@@ -23,7 +22,6 @@ body {
  font-family: 'Josefin Sans', sans-serif;
  border-bottom: 5px solid #000;
  letter-spacing: 5px;
- font-size: 4.5em;
 }
 
 .walk {
