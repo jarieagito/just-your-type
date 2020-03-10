@@ -2,11 +2,16 @@ body {
   background-color: #bdd6d3;
 }
 
+.head {
+  position: relative;
+}
+
 .paved {
   text-align: center;
-  letter-spacing: 4px;
+  letter-spacing: 5px;
   color: #1a8cff;
   font-family: "Libre Baskerville", serif;
+  border-bottom: 2px solid hotpink;
 }
 
 .norm {
