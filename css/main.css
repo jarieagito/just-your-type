@@ -2,10 +2,6 @@ body {
   background-color: #bdd6d3;
 }
 
-.head {
-  position: relative;
-}
-
 .paved {
   text-align: center;
   letter-spacing: 4px;
@@ -13,32 +9,10 @@ body {
   font-family: "Libre Baskerville", serif;
 }
 
-.line {
-  border-left: 10px dashed #f2f2f2;
-  height: 300px;
-  -ms-transform: rotate(-90deg);
-  -webkit-transform: rotate(-90deg);
-  transform: rotate(-90deg);
-  position: absolute;
-  top: 85px;
-  left: 84%;
-}
-
-.moreline {
-  border-right: 10px dashed #f2f2f2;
-  height: 300px;
-  -ms-transform: rotate(-90deg);
-  -webkit-transform: rotate(-90deg);
-  transform: rotate(-90deg);
-  position: absolute;
-  top: 89px;
-  right: 84%;
-}
-
 .norm {
   color: #f2f2f2;
   font-family: "Josefin Sans", sans-serif;
-  letter-spacing: 16px;
+  letter-spacing: 9px;
 }
 
 .walk {
