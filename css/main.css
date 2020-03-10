@@ -11,7 +11,7 @@ body {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 50%;
+  bottom: 54%;
   letter-spacing: 4px;
   color: #737373;
   font-family: "Libre Baskerville", serif;
@@ -21,7 +21,7 @@ body {
  color: #f2f2f2;
  font-family: 'Josefin Sans', sans-serif;
  border-bottom: 5px solid #000;
- letter-spacing: 5px;
+ letter-spacing: 16px;
 }
 
 .walk {
