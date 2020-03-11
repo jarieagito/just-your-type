@@ -9,9 +9,9 @@ body {
 .paved {
   text-align: center;
   letter-spacing: 5px;
-  color: #1a8cff;
+  color: #20b2aa;
   font-family: "Libre Baskerville", serif;
-  border-bottom: 2px solid hotpink;
+  border-bottom: 2px solid #f2f2f2;
 }
 
 .norm {
